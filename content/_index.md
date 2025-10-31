@@ -1,6 +1,5 @@
 ---
 title: "About me"
-draft: false
 ---
 
 ## はじめまして
