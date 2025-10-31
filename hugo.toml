@@ -2,3 +2,4 @@ baseURL = 'https://example.org/'
 languageCode = 'ja-jp'
 title = 'yonu33'
 theme = 'ananke'
+custom_css = ["css/stylesheet.css"]

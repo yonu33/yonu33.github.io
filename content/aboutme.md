@@ -1,9 +1,11 @@
 ---
-title: "私について"
+title: "About me!"
 date: 2025-10-31T17:30:00+09:00
 draft: false
 weight: 10
 ---
+
+<img src="/images/profile.jpg" alt="プロフィール画像" class="profile-image">
 
 ## こんにちは、yonuです！ 👋
 

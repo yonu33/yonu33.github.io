@@ -9,11 +9,11 @@
     <lastBuildDate>Fri, 31 Oct 2025 16:42:42 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About me</title>
-      <link>http://localhost:1313/posts/about-me/</link>
+      <title>test</title>
+      <link>http://localhost:1313/posts/test/</link>
       <pubDate>Fri, 31 Oct 2025 16:42:42 +0900</pubDate>
-      <guid>http://localhost:1313/posts/about-me/</guid>
-      <description>&lt;h2 id=&#34;はじめまして&#34;&gt;はじめまして&lt;/h2&gt;&#xA;&lt;p&gt;某地方公立大でコンピュータを学んでいます。&#xA;韓国語を学ぶのが趣味です。&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/test/</guid>
+      <description>&lt;h2 id=&#34;はじめまして&#34;&gt;はじめまして&lt;/h2&gt;&#xA;&lt;p&gt;test&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
