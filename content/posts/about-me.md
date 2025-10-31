@@ -1,7 +1,7 @@
 ---
 title: "About me"
 date: 2025-10-31T16:42:42+09:00
-draft: false # <-- これを `false` に変更しないと公開されません！
+draft: false
 ---
 
 ## はじめまして
