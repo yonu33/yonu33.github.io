@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>yonu33</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on yonu33</description>
+    <generator>Hugo</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Fri, 31 Oct 2025 16:42:42 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>http://localhost:1313/posts/about-me/</link>
+      <pubDate>Fri, 31 Oct 2025 16:42:42 +0900</pubDate>
+      <guid>http://localhost:1313/posts/about-me/</guid>
+      <description>&lt;h2 id=&#34;はじめまして&#34;&gt;はじめまして&lt;/h2&gt;&#xA;&lt;p&gt;某地方公立大でコンピュータを学んでいます。&#xA;韓国語を学ぶのが趣味です。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
