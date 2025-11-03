@@ -15,15 +15,12 @@ style = "github-dark"
     description = "UoA33 Student"
     info = ["UoA33 Student"]
     avatarURL = "https://avatars.githubusercontent.com/u/175496140"
-
-    since = 2025
+    dateFormat = "2006-01-02 15:04:05"
 
     enableTwemoji = true
 
     colorScheme = "auto"
     hidecolorschemetoggle = false
-
-    favicon = "favicon.ico"
 
 
 [[params.social]]
