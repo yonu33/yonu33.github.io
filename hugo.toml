@@ -1,0 +1,57 @@
+baseURL = "https://yonu33.github.io/"
+title = "yonu33.github.io"
+theme = "coder"
+languageCode = "ja-jp"
+defaultContentLanguage = "ja"
+
+[pagination]
+pagerSize = 20
+
+[markup.highlight]
+style = "github-dark"
+
+[params]
+    author = "yonu33"
+    description = "UoA33 Student"
+    info = ["UoA33", "University Student"]
+    avatarURL = "https://avatars.githubusercontent.com/u/175496140"
+
+    since = 2025
+
+    enableTwemoji = true
+
+    colorScheme = "auto"
+    hidecolorschemetoggle = false
+
+    favicon = "favicon.ico"
+
+
+[[params.social]]
+    name = "Github"
+    icon = "fa fa-github"
+    weight = 1
+    url = "https://github.com/yonu33/"
+[[params.social]]
+    name = "X"
+    icon = "fa fa-twitter-x"
+    weight = 2
+    url = "https://x.com/i/user/1898003250068262912"
+[[params.social]]
+    name = "mixi2"
+    icon = "fa fa-mixi2"
+    weight = 2
+    url = "https://x.com/i/user/1898003250068262912"
+    [[params.social]]
+    name = "YouTube"
+    icon = "fa fa-youtube"
+    weight = 2
+    url = "https://www.youtube.com/@yonu33"
+
+[[menu.main]]
+    name = "Blog"
+    weight = 1
+    url  = "posts/"
+[[menu.main]]
+    name = "About"
+    weight = 2
+    url = "about/"
