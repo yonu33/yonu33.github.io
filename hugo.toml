@@ -21,6 +21,17 @@ style = "github-dark"
 
     colorScheme = "auto"
     hidecolorschemetoggle = false
+    
+    favicon_32 = "/favicon-32x32.png"
+    
+    favicon_16 = "/favicon-16x16.png"
+    
+    apple_touch_icon = "/apple-touch-icon.png"
+    
+    android_chrome_192 = "/android-chrome-192x192.png"
+    android_chrome_512 = "/android-chrome-512x512.png"
+    
+    manifest = "/site.webmanifest
 
 
 [[params.social]]
