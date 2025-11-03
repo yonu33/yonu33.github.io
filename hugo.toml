@@ -31,7 +31,7 @@ style = "github-dark"
     android_chrome_192 = "/android-chrome-192x192.png"
     android_chrome_512 = "/android-chrome-512x512.png"
     
-    manifest = "/site.webmanifest
+    manifest = "/site.webmanifest"
 
 
 [[params.social]]
