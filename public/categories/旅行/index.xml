@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>旅行 on yonu33.github.io</title>
+    <link>http://localhost:1313/categories/%E6%97%85%E8%A1%8C/</link>
+    <description>Recent content in 旅行 on yonu33.github.io</description>
+    <generator>Hugo</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Mon, 03 Nov 2025 19:17:47 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/%E6%97%85%E8%A1%8C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>韓国旅行ログ</title>
+      <link>http://localhost:1313/posts/kr-trip-log/</link>
+      <pubDate>Mon, 03 Nov 2025 19:17:47 +0900</pubDate>
+      <guid>http://localhost:1313/posts/kr-trip-log/</guid>
+      <description>&lt;h1 id=&#34;韓国旅行ログ&#34;&gt;&#xD;&#xA;  韓国旅行ログ&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#%e9%9f%93%e5%9b%bd%e6%97%85%e8%a1%8c%e3%83%ad%e3%82%b0&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;見出しへのリンク&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;見出しへのリンク&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;</description>
+    </item>
+  </channel>
+</rss>

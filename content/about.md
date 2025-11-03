@@ -3,17 +3,34 @@ title: "About me"
 ---
 
 はじめまして、yonu33です。
-某地方公立大学でコンピュータ理工学を学んでいます
+私は某地方公立大学でコンピュータ理工学を学んでいます。
 
-
-## 趣味
-* 言語学習
-* 旅行
+## Hobbies
+* 言語学習（特に韓国語）
+* 旅行（西日本行きたい）
 * レトロゲーム
 
-### 経歴
-* 2025年8月〜: GDGoC Aizu Co-Organizer
+## Skills / Familiar Things
+* **Frontend**
+    * JavaScript
+    * XAML (WPF)
+    * Hugo / HTML / CSS
+* **Backend**
+    * C
+    * C# / .NET:
+    * Python
+* **Tools**
+    * Git
+    * GitHub
+    * Raspberry Pi
+* **Other**
+    * Korean (Have enough skills to travel)
 
-### 連絡先
+## Activities / Experience
+* **2025.03** : Discordコミュニティサーバー「[UoA33+αの集い](https://discord.com/invite/9ZCgqNzqF7)」設立
+* **2025.08** : [GDGoC Aizu](https://gdg.community.dev/gdg-on-campus-university-of-aizu-fukushima-japan/) Co-Organizer 就任 (Google Developer Group on Campus)
+* **2025.11** : HugoとGitHub Pagesでこのサイトを作成
+
+## Contact
 * GitHub: [@yonu33](https://github.com/yonu33)
 * X (Twitter): [@yonu33](https://x.com/i/user/1898003250068262912)
