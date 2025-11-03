@@ -17,7 +17,7 @@ title: "About me"
     * Hugo / HTML / CSS
 * **Backend**
     * C
-    * C# / .NET:
+    * C# / .NET
     * Python
 * **Tools**
     * Git
@@ -25,6 +25,15 @@ title: "About me"
     * Raspberry Pi
 * **Other**
     * Korean (Have enough skills to travel)
+    
+## Interests & Learning
+* AI / LLM
+* Competitive Programming
+* Discord Bots Development
+* Game Development (Unity)
+* Hardware / NFC (FeliCa, IC Cards)
+* Mobile Development (Swift, Kotlin)
+* Web Development (React.js, Cloudflare, etc.)
 
 ## Activities / Experience
 * **2025.03** : Discordコミュニティサーバー「[UoA33+αの集い](https://discord.com/invite/9ZCgqNzqF7)」設立
