@@ -1,11 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>はじめまして on yonu33.github.io</title>
+    <title>yonu33.github.io</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in はじめまして on yonu33.github.io</description>
+    <description>Recent content on yonu33.github.io</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
+    <lastBuildDate>Mon, 03 Nov 2025 19:17:47 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>http://localhost:1313/posts/test/</link>
+      <pubDate>Mon, 03 Nov 2025 19:17:47 +0900</pubDate>
+      <guid>http://localhost:1313/posts/test/</guid>
+      <description>&lt;h1 id=&#34;this-is-test-page&#34;&gt;&#xD;&#xA;  This is test page!&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#this-is-test-page&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;見出しへのリンク&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;見出しへのリンク&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>About me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;はじめまして、yonu33です。&#xA;某地方公立大学でコンピュータ理工学を学んでいます&lt;/p&gt;&#xA;&lt;h2 id=&#34;趣味&#34;&gt;&#xD;&#xA;  趣味&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#%e8%b6%a3%e5%91%b3&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;見出しへのリンク&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;見出しへのリンク&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;言語学習&lt;/li&gt;&#xA;&lt;li&gt;旅行&lt;/li&gt;&#xA;&lt;li&gt;レトロゲーム&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;経歴&#34;&gt;&#xD;&#xA;  経歴&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#%e7%b5%8c%e6%ad%b4&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;見出しへのリンク&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;見出しへのリンク&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h3&gt;&#xD;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2025年8月〜: GDGoC Aizu Co-Organizer&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;連絡先&#34;&gt;&#xD;&#xA;  連絡先&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#%e9%80%a3%e7%b5%a1%e5%85%88&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;見出しへのリンク&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;見出しへのリンク&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h3&gt;&#xD;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;GitHub: &lt;a href=&#34;https://github.com/yonu33&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@yonu33&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;X (Twitter): &lt;a href=&#34;https://x.com/i/user/1898003250068262912&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@yonu33&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
   </channel>
 </rss>
