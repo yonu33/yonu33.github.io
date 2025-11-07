@@ -43,3 +43,4 @@ title: "About me"
 ## Contact
 * GitHub: [@yonu33](https://github.com/yonu33)
 * X (Twitter): [@yonu33](https://x.com/i/user/1898003250068262912)
+* mixi2: [@yonu](https://mixi.social/@yonu)
