@@ -36,7 +36,7 @@ title: "About me"
 * Web Development (React.js, Cloudflare, etc.)
 
 ## Activities / Experience
-* **2025.03** : Discordコミュニティサーバー「[UoA33の集い](https://discord.com/invite/9ZCgqNzqF7)」設立
+* **2025.03** : Discordコミュニティサーバー「[UoA33+αの集い（現UoAの集い）](https://discord.com/invite/9ZCgqNzqF7)」設立
 * **2025.08** : [GDGoC Aizu](https://gdg.community.dev/gdg-on-campus-university-of-aizu-fukushima-japan/) Co-Organizer 就任 (Google Developer Group on Campus)
 * **2025.11** : HugoとGitHub Pagesでこのサイトを作成
 
