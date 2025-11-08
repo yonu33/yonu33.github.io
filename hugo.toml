@@ -33,27 +33,31 @@ style = "github-dark"
     
     manifest = "/site.webmanifest"
 
-
+[[params.social]]
+    name = "AtCoder"
+    icon = "<i class="fa-solid fa-a"></i>"
+    weight = 2
+    url = "https://atcoder.jp/users/yonu"
+[[params.social]]
+    name = "Discord"
+    icon = "fa-brands fa-discord"
+    weight = 4
+    url = "https://discord.com/invite/9ZCgqNzqF7"
 [[params.social]]
     name = "Github"
     icon = "fa-brands fa-github"
     weight = 1
     url = "https://github.com/yonu33/"
 [[params.social]]
-    name = "X"
-    icon = "fa-brands fa-x-twitter"
-    weight = 2
-    url = "https://x.com/i/user/1898003250068262912"
-[[params.social]]
     name = "mixi2"
     icon = "fa-solid fa-m"
     weight = 3
     url = "https://mixi.social/@yonu"
 [[params.social]]
-    name = "Discord"
-    icon = "fa-brands fa-discord"
-    weight = 4
-    url = "https://discord.com/invite/9ZCgqNzqF7"
+    name = "X"
+    icon = "fa-brands fa-x-twitter"
+    weight = 2
+    url = "https://x.com/i/user/1898003250068262912"
 [[params.social]]
     name = "YouTube"
     icon = "fa-brands fa-youtube"
