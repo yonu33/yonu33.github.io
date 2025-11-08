@@ -35,7 +35,7 @@ style = "github-dark"
 
 [[params.social]]
     name = "AtCoder"
-    icon = "<i class="fa-solid fa-a"></i>"
+    icon = "fa-solid fa-a"
     weight = 2
     url = "https://atcoder.jp/users/yonu"
 [[params.social]]
